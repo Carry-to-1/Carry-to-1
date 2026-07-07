@@ -23,6 +23,7 @@ I actively share my resarch, projects, and learning resources.
 ### What I Have Build
 
 | Project | Progress |
+|---|---|
 | RSIC-V Emulator in C++ | Ongoing |
 | Capability Based Kernel | Upcoming |
 
