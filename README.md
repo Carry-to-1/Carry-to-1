@@ -20,7 +20,7 @@ I actively share my resarch, projects, and learning resources.
 ---
 
 ### My Work Revolves Around a Simple Question 
-**`Can a general-purpose operating system be designed so that security is a fundamental property without compromising performance`**
+**`"Can a general-purpose operating system be designed so that security is a fundamental property without compromising performance?"`**
 
 ---
 
@@ -43,3 +43,6 @@ I actively share my resarch, projects, and learning resources.
 
 ### MyGoal & Roadmap
 
+Currently, I'm Learning from Open Source & Internet resource and looking for a Mentor whose works expand in Computer Systems especially Operating Systems.
+
+You can check my Roadmap and Goal through ~ https://github.com/Carry-to-1/Manifest
