@@ -46,6 +46,7 @@ Currently, I'm Learning from Open Source & Internet resource and looking for a M
 
 You can check my Roadmap and Goal through ~ https://github.com/Carry-to-1/Manifest
 
+
 <div align="center">
 
 *"KISS ~ Keep it simple, Stupid"*
