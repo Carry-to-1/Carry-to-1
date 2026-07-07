@@ -10,8 +10,7 @@
 
 ### Who AM I ?
 
-I am deeply passionate about computer systems , systems security and secure systems. </b>
-I actively share my resarch, projects, and learning resources.
+I am deeply passionate about computer systems , systems security and secure systems and I actively share my research, projects, and learning resources.
 
 * IT Student & Learner
 * Languages I learn or master: C, C++, Rust, Python, RISC-V Assembly
