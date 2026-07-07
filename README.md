@@ -13,9 +13,14 @@
 I am deeply passionate about computer systems , systems security and secure systems. </b>
 I actively share my resarch, projects, and learning resources.
 
-* IT Student in Radiant College, Nepal
+* IT Student & Learner
 * Languages I learn or master: C, C++, Rust, Python, RISC-V Assembly
 * Web Stack: HTML, CSS, JS
+
+---
+
+### My Work Revolves Around a Simple Question 
+**`Can a general-purpose operating system be designed so that security is a fundamental property without compromising performance`**
 
 ---
 
@@ -33,3 +38,8 @@ I actively share my resarch, projects, and learning resources.
 
 * You can contact me at [mr.dipesh333@gmail.com](mailto:mr.dipesh333@gmail.com)
 * Want more information about me: https://dipeshkharel.com.np/
+
+---
+
+### MyGoal & Roadmap
+
