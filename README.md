@@ -28,8 +28,8 @@ I am deeply passionate about computer systems , systems security and secure syst
 
 | Project | Progress |
 |---|---|
-| RSIC-V Emulator in C++ | Ongoing |
-| Capability Based Kernel | Upcoming |
+| RSIC-V Emulator | Ongoing |
+| EduL4 | Upcoming |
 
 ---
 
