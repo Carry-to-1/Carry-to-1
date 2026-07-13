@@ -10,11 +10,7 @@
 
 ### Who AM I ?
 
-I am deeply passionate about computer systems , systems security and secure systems and I actively share my research, projects, and learning resources.
-
-* IT Student & Learner
-* Languages I learn or master: C, C++, Rust, Python, RISC-V Assembly
-* Web Stack: HTML, CSS, JS
+I am just an averge Nepali student working on Education and Technology : How technology can be used to reform education in Nepal.
 
 ---
 
@@ -30,6 +26,8 @@ I am deeply passionate about computer systems , systems security and secure syst
 |---|---|
 | RSIC-V Emulator | Ongoing |
 | EduL4 | Upcoming |
+| Krishak | Upcoming |
+| EduCAD | Upcoming |
 
 ---
 
@@ -40,11 +38,11 @@ I am deeply passionate about computer systems , systems security and secure syst
 
 ---
 
-### MyGoal & Roadmap
+### MyRoadmap
 
 Currently, I'm Learning from Open Source & Internet resource and looking for a Mentor whose works expand in Computer Systems especially Operating Systems.
 
-You can check my Roadmap and Goal through ~ [MyRoadmap](https://github.com/Carry-to-1/MyRoadmap)
+You can check my Roadmap ~ [MyRoadmap](https://github.com/Carry-to-1/MyRoadmap)
 
 
 <div align="center">
