@@ -14,9 +14,9 @@ I am Dipesh Kharel and I'm working at the intersection of education and technolo
 
 ### MyGoals 
 
-* Current(On Work) : Building educational technologies that bridge the gap between innovation and accessible learning, with a focus on Nepal and other developing communities.
+* Current (On Work) : Building educational technologies that bridge the gap between innovation and accessible learning, with a focus on Nepal and other developing communities.
 * Academic : Building a security first, Operating System
-* National(Future) : Establishing a world class research Institude in Nepal : Problem Oriented Learning & prioritizing Innovation and increasing potential of Nepal & Nepalese 
+* National (Future) : Establishing a world class research Institude in Nepal : Problem Oriented Learning & prioritizing Innovation and increasing potential of Nepal & Nepalese 
 
 ---
 
@@ -42,10 +42,10 @@ I am Dipesh Kharel and I'm working at the intersection of education and technolo
 * Lead Civil engineering juniors and myown class for 2 years
 * Serves as a Leader during my 8 and 9th grade in EcoClub and srijanship baalclub(Creative Children CLub).
 * Worked as a home tutor from grade 8 teaching 20 students to mid grade 10 and restarted in grade 11th.
-* Lead a volunteering on road and culvert survey as a school OJT (civl eng.) for local government.
+* Lead a volunteering on road and culvert survey as a school OJT (civil eng.) for local government.
 * Done work as site supervisor in construction site , 2D CAD drafter & Valuator for Mortage (Banking related work) in Ranimahal Consultancy under supersion of engineers.
 * TA during my 12th grade in RCC Strcture & taught my own class , physics in grade 11th.
-* Serves as a substitutional teacher for Fluid Mechanics in 12th & taught own classes for 3 months.
+* Serves as a substitutional teacher for Fluid Mechanics in 12th & taught myown classes for 3 months.
 
 ---
 
