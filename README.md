@@ -1,7 +1,7 @@
   
 ### WHO AM I ?
 
-I am Dipesh Kharel. I'm a Nepali student working at the intersection of education and technology, building open educational systems and practical tools that make learning more accessible, interactive, and equitable.
+I am Dipesh Kharel and I'm working at the intersection of education and technology, building open educational systems and practical tools that make learning more accessible, interactive, and equitable.
 
 ---
 <div align="center">
@@ -37,6 +37,18 @@ I am Dipesh Kharel. I'm a Nepali student working at the intersection of educatio
 
 ---
 
+### Experiences / Teaching / Services
+
+* Lead Civil engineering juniors and myown class for 2 years
+* Serves as a Leader during my 8 and 9th grade in EcoClub and srijanship baalclub(Creative Children CLub).
+* Worked as a home tutor from grade 8 teaching 20 students to mid grade 10 and restarted in grade 11th.
+* Lead a volunteering on road and culvert survey as a school OJT (civl eng.) for local government.
+* Done work as site supervisor in construction site , 2D CAD drafter & Valuator for Mortage (Banking related work) in Ranimahal Consultancy under supersion of engineers.
+* TA during my 12th grade in RCC Strcture & taught my own class , physics in grade 11th.
+* Serves as a substitutional teacher for Fluid Mechanics in 12th & taught own classes for 3 months.
+
+---
+
 ### Contact 
 
 * You can contact me at [mr.dipesh333@gmail.com](mailto:mr.dipesh333@gmail.com)
@@ -46,8 +58,7 @@ I am Dipesh Kharel. I'm a Nepali student working at the intersection of educatio
 
 ### MyRoadmap
 
-Currently, I'm Learning from Open Source & Internet resource and looking for a Mentor whose works expand in Computer Systems especially Operating Systems.
-Willing to work on Operating System , Secure System , System Security Research and Projects.
+I’m a self-directed learner studying computer systems through open-source projects and online resources. I’m looking for a mentor whose expertise is in operating systems and systems security. I’m passionate about contributing to operating systems, secure systems, systems security research, and open-source projects.
 
 You can check my Roadmap ~ [MyRoadmap](https://github.com/Carry-to-1/MyRoadmap)
 
