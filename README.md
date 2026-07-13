@@ -8,9 +8,16 @@
 
 ---
 
-### Who AM I ?
+### WHO AM I ?
 
-I am just an averge Nepali student working on Education and Technology : How technology can be used to reform education in Nepal.
+I'm a Nepali student working at the intersection of education and technology, building open educational systems and practical tools that make learning more accessible, interactive, and equitable.
+---
+
+### MyGoals 
+
+Current(On Work) : Building educational technologies that bridge the gap between innovation and accessible learning, with a focus on Nepal and other developing communities.
+Academic : Building a security first, Operating System
+National(Future) : Establishing a world class research Institude in Nepal : Problem Oriented Learning & prioritizing Innovation and increasing potential of Nepal & Nepalese 
 
 ---
 
