@@ -1,23 +1,22 @@
+  
+### WHO AM I ?
+
+I am Dipesh Kharel. I'm a Nepali student working at the intersection of education and technology, building open educational systems and practical tools that make learning more accessible, interactive, and equitable.
+
+---
 <div align="center">
-  
-# Dipesh Kharel
-  
-### Hey, I Love to Work & Learn About
+
+### I Love to Work & Learn About
 **`Operating System . System Security . Secure System`**
 </div>
 
 ---
 
-### WHO AM I ?
-
-I'm a Nepali student working at the intersection of education and technology, building open educational systems and practical tools that make learning more accessible, interactive, and equitable.
----
-
 ### MyGoals 
 
-Current(On Work) : Building educational technologies that bridge the gap between innovation and accessible learning, with a focus on Nepal and other developing communities.
-Academic : Building a security first, Operating System
-National(Future) : Establishing a world class research Institude in Nepal : Problem Oriented Learning & prioritizing Innovation and increasing potential of Nepal & Nepalese 
+* Current(On Work) : Building educational technologies that bridge the gap between innovation and accessible learning, with a focus on Nepal and other developing communities.
+* Academic : Building a security first, Operating System
+* National(Future) : Establishing a world class research Institude in Nepal : Problem Oriented Learning & prioritizing Innovation and increasing potential of Nepal & Nepalese 
 
 ---
 
@@ -48,6 +47,7 @@ National(Future) : Establishing a world class research Institude in Nepal : Prob
 ### MyRoadmap
 
 Currently, I'm Learning from Open Source & Internet resource and looking for a Mentor whose works expand in Computer Systems especially Operating Systems.
+Willing to work on Operating System , Secure System , System Security Research and Projects.
 
 You can check my Roadmap ~ [MyRoadmap](https://github.com/Carry-to-1/MyRoadmap)
 
