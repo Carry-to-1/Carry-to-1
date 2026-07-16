@@ -1,7 +1,7 @@
   
 ### WHO AM I ?
 
-I am Dipesh Kharel and I'm working at the intersection of education and technology, building open educational systems and practical tools that make learning more accessible, interactive, and equitable & in Operating Systems.
+I am Dipesh Kharel and I'm working in Operating Systems & EdTech.
 
 ---
 <div align="center">
