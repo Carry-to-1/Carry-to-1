@@ -1,7 +1,7 @@
   
 ### WHO AM I ?
 
-I am Dipesh Kharel and I'm working in Operating Systems & EdTech.
+I am Dipesh Kharel and I'm working in Operating Systems and Trustworthy Technologies.
 
 ---
 <div align="center">
@@ -24,8 +24,6 @@ I am Dipesh Kharel and I'm working in Operating Systems & EdTech.
 |---|---|
 | RSIC-V Emulator | Ongoing |
 | EduL4 | Upcoming |
-| Krishak | Upcoming |
-| EduCAD | Upcoming |
 
 ---
 
