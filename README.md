@@ -1,6 +1,6 @@
 ### WHO AM I ?
 
-I am [Dipesh Kharel](dipeshkharel.com.np) and I am currently studying [B Tech. Ed. IT & BIT (Dual Degree)](https://github.com/Carry-to-1/B-Tech-Ed-IT), I have studied [technical education in civil engineering](https://github.com/Carry-to-1/My-Civil-Engineering-Side) from grade 9-12 equivalent to diploma in civil engineering.
+I am [Dipesh Kharel](https://dipeshkharel.com.np/) and I am currently studying [B Tech. Ed. IT & BIT (Dual Degree)](https://github.com/Carry-to-1/B-Tech-Ed-IT), I have studied [technical education in civil engineering](https://github.com/Carry-to-1/My-Civil-Engineering-Side) from grade 9-12 equivalent to diploma in civil engineering.
 
 ---
 
