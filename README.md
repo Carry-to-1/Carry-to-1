@@ -1,22 +1,11 @@
-  
-### WHO AM I ?
 
-I am Dipesh Kharel and I'm working in Operating Systems and Trustworthy Technologies.
-
----
 <div align="center">
 
 ### I Love to Work & Learn About
-**`Operating System . System Security . Secure System`**
+**`Operating System . System Security . Secure & Trustworthy Technology`**
 </div>
 
 ---
-
-### My Work Revolves Around a Simple Question 
-**`"Can a general-purpose operating system be designed so that security is a fundamental property without compromising performance?"`**
-
----
-
 
 ### What I Have Build
 
@@ -26,12 +15,6 @@ I am Dipesh Kharel and I'm working in Operating Systems and Trustworthy Technolo
 | EduL4 | Upcoming |
 
 ---
-
-### Contact 
-
-* You can contact me at [mr.dipesh333@gmail.com](mailto:mr.dipesh333@gmail.com)
-* Want more information about me: https://dipeshkharel.com.np/
-
 
 <div align="center">
 
