@@ -4,7 +4,7 @@ I am [Dipesh Kharel](https://dipeshkharel.com.np/) and I am currently studying [
 
 ---
 
-*Here are some [Online Courseworks](https://github.com/Carry-to-1/Online-Coursework) that I have done from MIT, UCB & CMU.*
+*Here are some [Online Courseworks](https://github.com/Carry-to-1/Online-Coursework) that I have done from MIT, UCB, CMU, UNSW, Gerogia Tech and many more beside my Bachelor's.*
 
 ---
 
